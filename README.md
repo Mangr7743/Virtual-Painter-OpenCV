@@ -5,3 +5,4 @@ The program then matches objects with saved colors to start tracing the screen w
 
 The project utilizes the OpenCV library to create blurs and filter the image.
 
+![image](https://user-images.githubusercontent.com/45516727/117892763-4c938f00-b287-11eb-9e86-1c65115c8a0c.png)
